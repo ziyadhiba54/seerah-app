@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+Disallow: /api/
+
+Sitemap: https://story-weaver-1--hindhiba865.replit.app/sitemap.xml
