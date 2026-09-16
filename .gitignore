@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Android build outputs and signing material
+android/app/build/
+android/.gradle/
+android/app/seerah-release-key.keystore
+android/seerah-release-key.keystore
+local.properties
